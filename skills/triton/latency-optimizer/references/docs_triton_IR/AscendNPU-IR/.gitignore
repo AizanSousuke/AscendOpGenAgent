@@ -1,8 +1,0 @@
-build*/
-!build-tools/
-.vscode
-.cache
-.idea/
-*.orig
-*.rej
-.codemate

@@ -1,2 +1,0 @@
-add_subdirectory(TritonAscend)
-add_subdirectory(TritonStructured)

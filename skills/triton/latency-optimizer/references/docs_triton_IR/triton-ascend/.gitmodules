@@ -1,4 +1,0 @@
-[submodule "third_party/ascend/AscendNPU-IR"]
-	path = third_party/ascend/AscendNPU-IR
-	url = https://gitcode.com/Ascend/AscendNPU-IR.git
-    depth = 1
