@@ -1,0 +1,9 @@
+[submodule "skills/triton/latency-optimizer/references/docs_triton_IR/third_party"]
+	path = skills/triton/latency-optimizer/references/docs_triton_IR/third_party
+	url = https://github.com/Ascend/AscendNPU-IR.git
+[submodule "skills/triton/latency-optimizer/references/docs_triton_IR/third_party_triton-ascend"]
+	path = skills/triton/latency-optimizer/references/docs_triton_IR/third_party_triton-ascend
+	url = https://github.com/Ascend/triton-ascend.git
+[submodule "skills/triton/latency-optimizer/references/docs_triton_IR/thrid_party_AscendNPU-IR"]
+	path = skills/triton/latency-optimizer/references/docs_triton_IR/thrid_party_AscendNPU-IR
+	url = https://github.com/Ascend/AscendNPU-IR.git
